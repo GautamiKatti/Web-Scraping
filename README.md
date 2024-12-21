@@ -14,23 +14,23 @@ This project focuses on web scraping data from the Wikipedia page listing the la
 
 **Project Details**
 
-Language Used: Python
-Libraries Used: BeautifulSoup, requests, pandas, matplotlib
-Wikipedia URL: [List of largest companies in the United States by revenue]([url](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue))
+*Language Used: Python
+*Libraries Used: BeautifulSoup, requests, pandas, matplotlib
+*Wikipedia URL: [List of largest companies in the United States by revenue]([url](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue))
 
 **Insights**
 
-Top 5 Performing Companies By Revenue Growth : Nvidia (125.9), Goldman Sachs (57.8), Citigroup (55.1), JPMorgan Chase (54.7), Bank of America (49.4)
-Bottom 5 Performing Companies by Revenue Growth : Valero Energy (-18.8), World Kinect Corporation (-19.2), Dow Chemical Company (-21.6), ConocoPhillips (-28.7), Pfizer (-41.7)
-Top 5 Companies by Revenue per Employee : Fannie Mae, StoneX Group, Valero Energy, Freddie Mac, Plains All American Pipeline
-Popular Headquarters of Companies: New York City, New York, hosts the highest concentration of these companies, reflecting its role as a financial and corporate hub.
-Industry Trends: Industries like retail and finance show high growth rates.
+*Top 5 Performing Companies By Revenue Growth : Nvidia (125.9), Goldman Sachs (57.8), Citigroup (55.1), JPMorgan Chase (54.7), Bank of America (49.4)
+*Bottom 5 Performing Companies by Revenue Growth : Valero Energy (-18.8), World Kinect Corporation (-19.2), Dow Chemical Company (-21.6), ConocoPhillips (-28.7), Pfizer (-41.7)
+*Top 5 Companies by Revenue per Employee : Fannie Mae, StoneX Group, Valero Energy, Freddie Mac, Plains All American Pipeline
+*Popular Headquarters of Companies: New York City, New York, hosts the highest concentration of these companies, reflecting its role as a financial and corporate hub.
+*Industry Trends: Industries like retail and finance show high growth rates.
 
 **Challenges Encountered**
 
-Data Cleaning: Handling inconsistent data formats such as commas in numbers and percentage signs required careful preprocessing.
-Metric Selection: Deciding on meaningful metrics like Revenue per Employee to measure efficiency involved thoughtful consideration.
-Visualization Choices: Balancing clarity and depth of insights in visualizations was a challenging but rewarding process.
+*Data Cleaning: Handling inconsistent data formats such as commas in numbers and percentage signs required careful preprocessing.
+*Metric Selection: Deciding on meaningful metrics like Revenue per Employee to measure efficiency involved thoughtful consideration.
+*Visualization Choices: Balancing clarity and depth of insights in visualizations was a challenging but rewarding process.
 
 **Conclusion**
 
