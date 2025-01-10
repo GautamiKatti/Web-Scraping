@@ -16,7 +16,7 @@ This project focuses on web scraping data from the Wikipedia page listing the la
 
 * Language Used: Python
 * Libraries Used: BeautifulSoup, requests, pandas, matplotlib
-* Source URL: [List of largest companies in the United States by revenue]([url](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue))
+* Source URL: [List of largest companies in the United States by revenue](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)
 
 **Insights**
 
